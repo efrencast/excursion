@@ -10,7 +10,24 @@ h1 {
   color: white;
 }
 
+h2 {
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+}
+
 .green-link {
   color: Aquamarine;
   font-size: 16px;
+}
+
+.personal {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.footer {
+  text-align: right;
+  color: gray;
 }
